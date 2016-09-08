@@ -1,3 +1,4 @@
-# My Awesome Book
+# 新人培训介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本份文档包含三个阶段，帮助新人能快速参与到项目的开发中。
+
