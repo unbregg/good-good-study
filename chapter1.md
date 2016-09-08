@@ -2,5 +2,5 @@
 
 （预计时长：三周）
 
-javascript、html、bootstrap的应用
+ 内容： javascript、html、bootstrap的应用
 
