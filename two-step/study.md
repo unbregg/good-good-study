@@ -1,11 +1,11 @@
 ## 环境搭建
 
 1. 安装git客户端工具，熟练掌握git常用命令，诸如pull，push，stash，branch等。
-2. 通过gitlab下载前端源码 http:\/\/112.124.34.33:10080\/ （需要申请加入）。 
+2. 通过gitlab下载前端源码 http:\/\/112.124.34.33:10080\/ （需要申请加入）。
 
-3. 安装全局node包，ember-cli，bower。
+3. 安装全局node包， ember-cli，bower。
 
-4.  npm install ember-cli –g
+4. npm install ember-cli –g
 
 5. npm install bower –g
 
@@ -17,8 +17,6 @@
 
 9. 启动前端server
 
-
- 
 
 ## Ember
 
