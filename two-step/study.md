@@ -15,7 +15,7 @@
 
 8. 接着`bower install`
 
-9. 依赖安装完成后，启动项目，运行 `ember s --proxy=代理地址`  代理地址可为服务端的地址
+9. 依赖安装完成后，启动项目，运行 `ember s --proxy=代理地址`  代理地址需咨询你所在小组master
 
 
 ## Ember
