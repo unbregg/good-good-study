@@ -3,7 +3,7 @@
 1. 安装git客户端工具，熟练掌握git常用命令，诸如pull，push，stash，branch等。
 2. 通过gitlab下载前端源码 http:\/\/112.124.34.33:10080\/ （需要申请加入）。
 
-3. 安装node，
+3. 安装[node](https://nodejs.org/en/)
 
 4. 安装ember-cli，打开命令行窗口，输入 `npm install ember-cli –g`
 
