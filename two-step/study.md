@@ -20,7 +20,53 @@
 
 ## Ember
 
-.....
+Ember官网（http:\/\/emberjs.com\/）
+
+在搭建完成Ember-Cli环境后，可前往Ember官网查看基础教程（https:\/\/guides.emberjs.com\/v1.13.0\/）
+
+（注关于Guides的版本，目前项目内选用的是1.13,但也可以选择以2.X的版本查看,2.X版本的文档相对更趋于完善）
+
+需要了解的相关概念有
+
+**对象模型\(重要\)**
+
+ 主要是Ember内建的一些功能，是构成整个Ember应用的基石，包括
+
+ 1.类继承 extend
+
+ 2.类混合 mixin
+
+ 3.类重写 reopen
+
+ 4.计算属性 computed
+
+ 5.观察器 observer
+
+ 6.绑定 binding
+
+**组件\(重要\)**
+
+ 主要为Ember对于Web-Component的一种实现，包括组建作用域隔离,组建与外界Control\/Route的交互等
+
+**模板**
+
+ 主要了解Ember对于模板内建的Helper，如Each等，主要是对于Handlebar模板语言的了解
+
+**控制器\(重要\)**
+
+ 一种MVC职责划分,主要负责处理数据的交互逻辑
+
+**路由\(重要\)**
+
+ Ember内建的路由库，Ember有约定大于配置的理念，对于路由，有许多的约定。根据路由生成对应的控制器等。需要着重了解。
+
+ （https:\/\/guides.emberjs.com\/v1.13.0\/getting-started\/naming-conventions\/）
+
+附Ember相关资料:
+
+Ember Teach\( http:\/\/emberteach.ddlisting.com\/ \)
+
+
 
 ## Ember-cli
 
