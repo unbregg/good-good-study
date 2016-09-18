@@ -1,4 +1,4 @@
-**JavaScript**：高级程序设计\(第3版\)
+## **JavaScript**：高级程序设计\(第3版\)
 
 内容导读：该书内容很全，包含了前端开发人员所需的所有核心基础知识。
 
@@ -24,11 +24,9 @@
 
 第20-21章了解ajax的底层步骤，各步骤的具体动作，了解json格式。
 
-其他章节看自身情况可在工作中自行查阅。 
+其他章节看自身情况可在工作中自行查阅。
 
-
-
-**bootstrap：** [http:\/\/www.bootcss.com\/](http://www.bootcss.com/)
+## **bootstrap：** [http:\/\/www.bootcss.com\/](http://www.bootcss.com/)
 
 1.下载源码版bootstrap。
 
@@ -38,7 +36,5 @@
 
 额外，在学习bootstrap过程中会遇到很多css知识，需要在空余时间自行补足。
 
-
-
-**html：**[http:\/\/www.w3school.com.cn\/html\/index.asp](http://www.w3school.com.cn/html/index.asp)
+## **html：**[http:\/\/www.w3school.com.cn\/html\/index.asp](http://www.w3school.com.cn/html/index.asp)
 
